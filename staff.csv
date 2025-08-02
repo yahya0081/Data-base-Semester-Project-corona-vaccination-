@@ -1,0 +1,16 @@
+StaffID,FullName,Role,CenterID,ShiftStart,ShiftEnd
+1,Staff 1,Nurse,4,08:00,16:00
+2,Staff 2,Doctor,2,08:00,16:00
+3,Staff 3,Doctor,6,08:00,16:00
+4,Staff 4,Admin,13,08:00,16:00
+5,Staff 5,Nurse,8,08:00,16:00
+6,Staff 6,Doctor,7,08:00,16:00
+7,Staff 7,Doctor,15,08:00,16:00
+8,Staff 8,Admin,14,08:00,16:00
+9,Staff 9,Doctor,14,08:00,16:00
+10,Staff 10,Doctor,15,08:00,16:00
+11,Staff 11,Doctor,9,08:00,16:00
+12,Staff 12,Nurse,5,08:00,16:00
+13,Staff 13,Doctor,1,08:00,16:00
+14,Staff 14,Admin,1,08:00,16:00
+15,Staff 15,Doctor,2,08:00,16:00

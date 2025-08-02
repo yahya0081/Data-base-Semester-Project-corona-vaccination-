@@ -1,0 +1,16 @@
+ReportID,RecordID,Symptoms,Severity,ReportedOn
+1,1,Symptom 1,Severe,2025-06-30
+2,2,Symptom 2,Severe,2025-06-25
+3,3,Symptom 3,Severe,2025-06-09
+4,4,Symptom 4,Severe,2025-06-12
+5,5,Symptom 5,Moderate,2025-07-29
+6,6,Symptom 6,Mild,2025-07-28
+7,7,Symptom 7,Mild,2025-08-02
+8,8,Symptom 8,Moderate,2025-07-24
+9,9,Symptom 9,Severe,2025-07-10
+10,10,Symptom 10,Severe,2025-06-22
+11,11,Symptom 11,Severe,2025-08-02
+12,12,Symptom 12,Moderate,2025-07-14
+13,13,Symptom 13,Severe,2025-06-12
+14,14,Symptom 14,Moderate,2025-07-12
+15,15,Symptom 15,Moderate,2025-06-29
